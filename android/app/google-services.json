@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193212150278",
+    "project_id": "zidiolearning",
+    "storage_bucket": "zidiolearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193212150278:android:3b40df89a146080b664987",
+        "android_client_info": {
+          "package_name": "com.example.zidio_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo70BTAYJkFG4lLoBdE1Vjk_Ap0iw0fYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
